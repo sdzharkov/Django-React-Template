@@ -1,6 +1,6 @@
 A setup to use React.js/Webpack/Babel6 with Django. 
 
-Created with Python3 and DJango1.9.8
+Created with Python3 and DJango 1.9.8
 
 To run:
 1. npm install --upgrade 
